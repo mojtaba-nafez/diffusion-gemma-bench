@@ -1,0 +1,6 @@
+[submodule "transformers"]
+	path = transformers
+	url = https://github.com/mojtaba-nafez/transformers-gemma-dlm
+[submodule "lm-evaluation-harness-gemma-dlm"]
+	path = lm-evaluation-harness-gemma-dlm
+	url = https://github.com/mojtaba-nafez/lm-evaluation-harness-gemma-dlm
